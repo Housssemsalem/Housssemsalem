@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Housssemsalem
-- 👀 I’m interested in Data science and machine learning
-- 🌱 I’m currently learning about using data science tools and machine learning algorithms
+- 👀 I’m interested in Data analysis and machine learning
 - 📫 How to reach me via my eamil adress houcemsalem@gmail.com
 
